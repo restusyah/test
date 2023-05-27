@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KataKataBijak</string>
+    <string name="nim">NIM</string>
+    <string name="nama">- NAMA</string>
+    <string name="alamat">- ALAMAT</string>
+    <string name="nohp">- NO HP</string>
+    <string name="judul">UTS MOBILE 2</string>
+    <string name="show_list">Daftar List</string>
+</resources>
